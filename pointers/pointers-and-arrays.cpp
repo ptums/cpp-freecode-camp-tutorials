@@ -17,7 +17,16 @@ int main()
 
   // alt way by looking for the address and then dereferencing
   cout << *(luckyNums + 2) << endl;
-
-
+cout << endl;
+  // using pointers with arrays and loops
+  for(int i = 0; i <= 4; i++) {
+    cout << "number: ";
+    cin >> luckyNums[i];
+  }
+ 
+  // now we print out the value by using dereferencing with pointers
+  for(int i = 0; i <= 4; i++) {
+    cout << *(luckyNums + i) << " ";
+  }
   return 0;
 }
