@@ -1,3 +1,6 @@
 # C++ Course List
 
 - [Data Structures & Arrays](https://www.youtube.com/watch?v=T76E09hnEuo&ab_channel=CodeBeauty)
+- [Linked Lists](https://www.youtube.com/watch?v=HKfj0l7ndbc&ab_channel=CodeBeauty)
+- [Pointers Review](https://www.youtube.com/watch?v=axsplPtoQF0&ab_channel=CodeBeauty)
+- [Networking C++](https://www.youtube.com/watch?v=2hNdkYInj4g&t=2570s&ab_channel=javidx9)
