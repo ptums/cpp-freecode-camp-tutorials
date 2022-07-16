@@ -1,0 +1,3 @@
+/Users/petertumulty/CLionProjects/CPPLessons/cmake-build-debug/CMakeFiles/CPPLessons.dir
+/Users/petertumulty/CLionProjects/CPPLessons/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/petertumulty/CLionProjects/CPPLessons/cmake-build-debug/CMakeFiles/rebuild_cache.dir
